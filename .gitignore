@@ -1,0 +1,19 @@
+# Model files (hosted on HuggingFace)
+*.keras
+*.h5
+*.pb
+*.npy
+*.pkl
+
+# Large files
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

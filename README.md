@@ -328,6 +328,15 @@ print(f"{label} (score: {pred:.4f})")
 
 ---
 
+## Docs
+- [Deployment](docs/deployment_guide.md)
+- [Evaluation](docs/model_evaluation_report.md)
+
+---
+
+## Demo Video
+- [Demo](assets/Skin_Lesion_Classification_demo.gif)
+
 ## 🔮 Future Improvements
 
 - [ ] Add more training data (ISIC Archive: 25,000+ images)
